@@ -1,6 +1,8 @@
 # ComparacionTiendasSrJuanAlura
 challenge de Alura LATAM.-  Challenge sobre el análisis de datos de 4 tiendas del Sr Juan para determinar la mejor opción para vender e iniciar un nuevo proyecto.
 
+El proyecto se estructura como un cuaderno de Google collab o Jupyter Notebook donde se muestran los pasos del análisis y obtención de datos con algunas gráficas que ayudan a comprender los mejor los datos obtenidos, por último se tiene una conclusión sobre la Tienda que se considera la mejor opción para su venta.
+
 **Sobre el proyecto**
 Este es un proyecto de análisis de datos con Python, se tiene un archivo .ipynb que puede ser importado en un proyecto de la aplicación *Collab* de *Google* para poder observarlo o puede ser visto con algún editor como visual studio o el programa Jupyter Notebook.
 
